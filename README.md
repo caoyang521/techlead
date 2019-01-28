@@ -3,8 +3,10 @@
 文章较较较较较较较长长长长长长长，分为四部分的内容（PS：幸好 Phodit 编辑器（phodit.com），支持标题折叠的功能）：
 
  - Tech Lead 定义
- - 项目中的 Tech Lead
- - 
+ - Tech Lead 需要哪些能力？
+ - 项目生命周期中的 Tech Lead
+ - 提升 Tech Lead 能力
+ - Tech Lead 工具箱
 
 考虑到文章的长度，先上几张图：
 
