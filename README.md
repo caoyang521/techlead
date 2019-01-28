@@ -17,7 +17,7 @@
 
 或许，你注意到了：我们说的是 Lead，而不是 Leader。因为当我们说 Leader 的时候，指的往往是领导（leader）——一个正式领导职务的人，肩负着领导（lead）团队、组织前进的职责。而当我们说 Lead 的时候，说的则是一个带领我们前进的人。这个人可以是领导（leader），也可以是其他/她人。也因此，**Tech Lead 是一个角色，而非真实的岗位**，这个角色的意义在于带领其他/她人前进。两者的定义如下图所示：
 
-![Leader vs Boss](leader-vs-boss.jpg)
+![Leader vs Boss](images/leader-vs-boss.jpg)
 
 那么回想一下，在你的团队里，你是跟着谁一起干活？在做相关的技术工作的时候，你更愿意听谁的话，是你的领导，还是？
 
@@ -48,7 +48,7 @@ Tech Lead 便在这四种角色之间不断的转换。首先 Tech Lead 是技�
 
 除了技术上的工作，他/她还需要懂业务，以此才能开发出符合业务需求的软件。还需要能管理风险（主要是技术相关的风险），才能对应变化。
 
-![Technical Lead 模型 1](tech-lead-butterfly.png)
+![Technical Lead 模型 1](images/tech-lead-butterfly.png)
 
 这便是 Tech Lead 的相关领域模型。
 
@@ -77,7 +77,7 @@ In my option，a Tech Lead should have those skills:
 
 下图是 Patrick Kua （前 ThoughtWorks 大不列颠及北爱尔兰联合王国区的 Principal Technical Consultant ）提出的 Tech Lead 的责任范围。换句话来说，它便是 Tech Lead 所要做的工作。
 
-![Tech Lead Circles](tech-lead-circles.png)
+![Tech Lead Circles](images/tech-lead-circles.png)
 
 图上的内容主要分为三部分：
 
@@ -91,7 +91,7 @@ In my option，a Tech Lead should have those skills:
 
 对应于此，我们也就有了自己的 （ThoughtWorks）的 Tead Lead 自测模型。从下图可以看出，它是在上图的基础上整理出来的：
 
-![Tech Lead Assessment](tla.png)
+![Tech Lead Assessment](images/tla.png)
 
 （PS：欢迎基于 [https://phodal.github.io/tla/](https://phodal.github.io/tla/) 开发你们的 Tech Lead 模型。自测工具使用：1. 从 1 ~ 5 为自己的相关能力打分，再一一连接对应的点数。 2. 在自己想提高的分数上画点，再绘制成圈 2。）
 
@@ -111,7 +111,7 @@ In my option，a Tech Lead should have those skills:
 
 也因此呢，我便根据 Tech Lead 要做的一些事情，再按照之前定义的[项目三步曲](https://www.phodal.com/blog/short-time-project-best-practise/)，绘制了一个在项目不同时间的 TODO Lists。
 
-![Tech Lead in Project](tech-action-project.png)
+![Tech Lead in Project](images/tech-action-project.png)
 
 需要注意的是：这里仅列出笔者**觉得重要的部分**（PS：由于是第一个版本，所以也可能缺少一些要点）。对于某些并非那么重要的职责，可以在上述的 Tech Lead 模型中查看到。
 
@@ -121,7 +121,7 @@ In my option，a Tech Lead should have those skills:
 
 **Inception**，主要用于验证技术、业务、运营、设计、产品的可行性。过程中需要一个 Tech Lead 作为一个架构师，设计出符合项目需要的软件架构。按照我的理解，相关的过程大概如下所示：
 
-![架构设计的流程](architecture-process.jpg)
+![架构设计的流程](images/architecture-process.jpg)
 
 过程中，要与项目相关的利益相关者进行沟通，与开发人员一起探讨……，最后妥协出一个能勉勉强强满足各方需求的架构。我们还会从相关的讨论中，梳理出项目相关的技术风险。
 
@@ -141,7 +141,7 @@ In my option，a Tech Lead should have those skills:
 
 除此，在这个时间我们还要做的一件非常重要的是：**隔离其他/她技术人员与业务人员的直接需求对话**。
 
-![限制授权](limit-of-authority.png)
+![限制授权](images/limit-of-authority.png)
 
 对于团队的其他/她成员来说，任何的功能和需求的来源，只应该是来自于业务人员（源自业务需求），又或者是团队中的技术负责人（技术需求）。而不应该由业务人员直接与其他/她开发人员沟通。哪怕是 Tech Lead 和业务人员不在的时候，也需要减少此类事情的发生。
 
@@ -222,13 +222,13 @@ People，是一个项目的重要因素。
 
 在项目的不同时间里，对于不同的人来说，他/她们都有不同的感受。这便是心流：
 
-![心流](flow.png)
+![心流](images/flow.png)
 
 项目的初期，对于大部分的人来说，属于挑战水平高，技术水平一般（对项目不熟悉）的水平。而在项目的中后期，对于大部分的人来说，则项目处于无聊或者无感的状态。在焦虑期，指导新人；在无聊期，创建一些技术挑战……。
 
 作为 Tech Lead 则需要在不同地时期，帮助其他/她人成长。从 Interests、Skills、Strengths、Goals 等不同的维度考虑，了解每个人的不同阶段，帮助他/她们成长。
 
-![甜蜜点](sweet-spot.png)
+![甜蜜点](images/sweet-spot.png)
 
 从某种意义上来看，我们需要了解每一个团队人员的当前位置，而后帮他/也成长。而在项目启动的时候，也可以一起进行头脑风暴，了解每个人在这个项目上的四种诉求。
 
@@ -256,7 +256,7 @@ Tech Lead 保证技术实施的一个关键是，大家都信任你。一旦大�
 
 不同的项目都有各种的流程，都有自己所处的时期。这里就需要用到 Bruce Tuckman 的团队发展阶段模型（Tuckman Stages of Team Development Model）：
 
-![团队发展模型](states-of-group.png)
+![团队发展模型](images/states-of-group.png)
 
 即：
 
@@ -270,7 +270,7 @@ Tech Lead 保证技术实施的一个关键是，大家都信任你。一旦大�
 
 而针对于不同的人来说，我们还需要即**情境领导模式**：
 
-![情境领导模式](situational-leadership-model.png)
+![情境领导模式](images/situational-leadership-model.png)
 
 对应于不同的人，也就需要不同的方式，来带领他/她们完成任务：
 
@@ -313,8 +313,7 @@ Tech Lead 保证技术实施的一个关键是，大家都信任你。一旦大�
 
 #### 跨功能性需求
 
-跨功能性需求，又可以称为非功能性需求，是指依一些条件判断系统运作情形或其特性，而不是针对系统特定行为的需求。它们一般以 “xx性” 结尾，即英文都是以 “ility” 结尾，如稳定性（stability，可移植性（portability）。维基百科上，有一份相关的列表：[List of system quality attributes
-](https://en.wikipedia.org/wiki/List_of_system_quality_attributes)。这些需求又可以分为两类 [^wiki_nonfun]：
+跨功能性需求，又可以称为非功能性需求，是指依一些条件判断系统运作情形或其特性，而不是针对系统特定行为的需求。它们一般以 “xx性” 结尾，即英文都是以 “ility” 结尾，如稳定性（stability，可移植性（portability）。维基百科上，有一份相关的列表：[List of system quality attributes](https://en.wikipedia.org/wiki/List_of_system_quality_attributes)。这些需求又可以分为两类 [^wiki_nonfun]：
 
  - 运行质量（Execution qualities），可以在系统运作时观察到的质量，例如保安性及易用性等。
  - 发展质量（Evolution qualities），和软件系统结构及开发过程有关的质量，例如软件可测试性、可维护性、可扩展性、可伸缩性（scalability）等
@@ -357,7 +356,7 @@ Tech Lead 保证技术实施的一个关键是，大家都信任你。一旦大�
 
 每个人按自己的动机进行排序，而后有针对性地帮助他/她们：
 
-![动机](motivators.jpg)
+![动机](images/motivators.jpg)
 
 #### 处理冲突：谈判
 
@@ -365,11 +364,11 @@ Tech Lead 保证技术实施的一个关键是，大家都信任你。一旦大�
 
 这个时候，我们就需要 **Thomas-Kilmann 冲突理论 （TKI）**：
 
-![TKI](tki.jpg)
+![TKI](images/tki.jpg)
 
 再采取相应的策略：
 
-![TKI 策略](tki-stratery.jpg)
+![TKI 策略](images/tki-stratery.jpg)
 
 谈判分为**软式谈判、硬式谈判、原则式谈判**。对于**原则式谈判**（Principled Negotiation）：
 
@@ -390,7 +389,7 @@ Tech Lead 保证技术实施的一个关键是，大家都信任你。一旦大�
 
 从初始阶段起，项目便充满着各种的风险，也包含了很多的技术风险。作为一个 Tech Lead，管理这些风险也是我们的职责所在。其中的某些不确定性，会随着项目的进行，不断地减少。即**不确定性之锥**，描述了项目中不确定性量的演变过程，即不确定性不仅随着时间的流逝而减少，而且也随风险管理，特别是决策的确立而减小。如下图所示：
 
-![不确定性之锥](cone-of-uncertainty-for-powerpoint.jpg)
+![不确定性之锥](images/cone-of-uncertainty-for-powerpoint.jpg)
 
 随着更多的研究和开发，有关项目的更多信息被学习，然后不确定性趋于减少，当所有剩余风险被终止或转移时达到 0 ％。
 
@@ -418,7 +417,7 @@ Tech Lead 保证技术实施的一个关键是，大家都信任你。一旦大�
 
 从他/她的支持程度和赞同程度来看，我们可以在坐标轴上，标出他/她的位置：
 
-![Stakeholder Mapping](stakeholder-mapping.jpg)
+![Stakeholder Mapping](images/stakeholder-mapping.jpg)
 
 对应的，则需要采取不同的沟通策略。
 
@@ -426,7 +425,7 @@ Tech Lead 保证技术实施的一个关键是，大家都信任你。一旦大�
 
 在团队对话的时候，需要注意一些对话相关的风格。如下是四种不同的对话风格：
 
-![影响](influencing-approaches.png)
+![影响](images/influencing-approaches.png)
 
 可以尝试用罗伯特·西奥迪尼《影响力》（Influence: Science and Practice）一书中，介绍的**影响力的六大原则**来构建相关的影响力，即：
 
@@ -457,7 +456,7 @@ Tech Lead 保证技术实施的一个关键是，大家都信任你。一旦大�
 
 Path to Production 是以可视化的方式，来展示应用是如何上线的。如下图所示：
 
-![Path to Production](path-to-production.png)
+![Path to Production](images/path-to-production.png)
 
 （PS：相关的可视化工具见：https://phodal.github.io/path/）
 
@@ -471,11 +470,11 @@ Path to Production 是以可视化的方式，来展示应用是如何上线的�
 
 C4 Model 是一个非常不错的架构可视化工具，它从系统 System、容器 Container、组件 Component 和代码 Code 四个层次，由顶至底来介绍系统的架构：
 
-![C4 Model 示例](c4-model.jpg)
+![C4 Model 示例](images/c4-model.jpg)
 
 它们的关系类似于：
 
-![地图层级](c4model-layer.png)
+![地图层级](images/c4model-layer.png)
 
 **它需要持续不断地更新**。
 
@@ -483,7 +482,7 @@ C4 Model 是一个非常不错的架构可视化工具，它从系统 System、�
 
 ADR 架构决策记录，是一个类似于亚历山大模式（即：设计模式）的短文本文件。（虽然决策本身不一定是模式，但它们分享着力量的特征平衡。）每个记录都描述了一组力量和一个响应这些力量的决策。
 
-![ADR](adr.png)
+![ADR](images/adr.png)
 
 （PS：相关的工具有 adr-tools 和适用于中文语言的 [https://github.com/phodal/adr](https://github.com/phodal/adr) ）
 
@@ -493,7 +492,7 @@ ADR 架构决策记录，是一个类似于亚历山大模式（即：设计模�
 
 技术债，是你欠下的东西，需要去还。如果只记在心里，那么可能早晚会忘记，所以要可视化出来：
 
-![ 技术债墙](tech-debt-wall.png)
+![ 技术债墙](images/tech-debt-wall.png)
 
 而如图所示，并不是所有的技术债都值得立马去修。成本高，而收益低的工作，可以以后再做嘛（很久很久以后，直到所有的人都忘记了）。
 
@@ -501,11 +500,11 @@ ADR 架构决策记录，是一个类似于亚历山大模式（即：设计模�
 
 技术雷达是一个非常不错的季度技术总结。我们可以从中获取，技术专家们对于技术趋势的一些判断，一些可能采用的新技术。而不是自己将时间花费在大量地、不同的技术上，转而可以关注自己需要的那一部分：
 
-![Tech Lead](tw-radar-platforms.png)
+![Tech Lead](images/tw-radar-platforms.png)
 
 当然了，也可以建立自己内部的技术雷达。如我在很久以前的项目里，就尝试过：
 
-![TechStack](techstack.jpg)
+![TechStack](images/techstack.jpg)
 
 时间太久了，这个审美和今天的差别有点大。
 
